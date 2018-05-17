@@ -8,7 +8,7 @@ Application Programming Interfaces (APIs) are a powerful way for libraries to ga
 
 # Example: Elsevier Scopus API in Excel
 
-## Step 1: Register at the Elsevier Develop Protal (https://dev.elsevier.com/index.html), request the Scopus API key.
+## Step 1: Register at the Elsevier Develop Portal (https://dev.elsevier.com/index.html), request the Scopus API key.
 
 ## Step 2: Activate Developer tab in Excel (Please Google).
 
